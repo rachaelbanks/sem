@@ -1,5 +1,5 @@
-Software methods first application.
+# Software Methods First Application
 
-Using github for version control.
+Using GitHub for version control.
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/rachaelbanks/sem/main.yml?branch=master)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/rachaelbanks/sem/main.yml?branch=main)
