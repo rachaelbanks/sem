@@ -1,5 +1,4 @@
 # Software Methods First Application
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rachaelbanks/sem/11153387280?branch=master)
-
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/rachaelbanks/sem/main.yml?branch=master)
 Using GitHub for version control.
